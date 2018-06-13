@@ -3,3 +3,6 @@ bitflyerと、いなごflyerというbitcoin売買情報サイトの情報を自
 現在価格などの他に、一応、売買機能もありますが怖くてあまり使ってません
 
 
+## bitapicall
+
+class: ApiCall　は　http://fx.ichizo.biz/2017/03/09/bitflyer-api.html　さんのものを使わさせて頂きました。
