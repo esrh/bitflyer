@@ -5,4 +5,4 @@ bitflyerと、いなごflyerというbitcoin売買情報サイトの情報を自
 
 ## bitapicall
 
-class: ApiCall　は　http://fx.ichizo.biz/2017/03/09/bitflyer-api.html　さんのものを使わさせて頂きました。
+class: ApiCall　は　[こちら](http://fx.ichizo.biz/2017/03/09/bitflyer-api.html)　を使わさせて頂きました。
